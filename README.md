@@ -3,10 +3,10 @@
 
 ## Project Description
 
-This is a Deep Learning based approach to determine whether a movie the review is positive or negative using theIMDB movie review sentiment classification dataset. The kernel imports the IMDB reviews (originally text - already transformed by K…
+This is a Deep Learning based approach to determine whether a movie the review is positive or negative using theIMDB movie review sentiment classification dataset. he kernel imports the IMDB reviews (originally text - already transformed by Keras to integers using a dictionary).
 
 
-This notebook is part of my deep learning DAAN 570 class, I used a AWS sagemaker instance for multi GPU runtime training and S3 for initial storage.
+This notebook is part of my deep learning DAAN 570 class, I used a AWS sagemaker instance for GPU runtime training.
 
 
 ## Dataset 
